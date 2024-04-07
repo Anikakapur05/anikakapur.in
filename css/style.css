@@ -630,3 +630,10 @@ nav ul li a {
 .credits {
   font-size: 13px;
 }
+.btn-resume{
+  margin: 0 0 0 0 !important;
+  background: black;
+  padding: 3px 20px;
+  border-radius: 200px;
+  color: white;
+}
